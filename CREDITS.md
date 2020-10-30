@@ -1,7 +1,7 @@
 # CREDITS for Pirate Jump
 
 ## Music
-Burst by INOSSI | https://soundcloud.com/inossi
+1. Burst by INOSSI | https://soundcloud.com/inossi
 Music promoted by https://www.free-stock-music.com
 Creative Commons Attribution 3.0 Unported License
 https://creativecommons.org/licenses/by/3.0/deed.en_US
