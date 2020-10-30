@@ -6,32 +6,32 @@ Music promoted by https://www.free-stock-music.com
 Creative Commons Attribution 3.0 Unported License
 https://creativecommons.org/licenses/by/3.0/deed.en_US
 
-https://freesound.org/people/GregorQuendel/sounds/511724/
+2. https://freesound.org/people/GregorQuendel/sounds/511724/
 https://creativecommons.org/licenses/by/3.0/
 
-https://soundcloud.com/stevenobrien/majestic-epic-orchestral-piece
+3. https://soundcloud.com/stevenobrien/majestic-epic-orchestral-piece
 https://creativecommons.org/licenses/by/3.0/
 
-https://freesound.org/people/vykroft/sounds/416155/
+4. https://freesound.org/people/vykroft/sounds/416155/
 
 ## SFX
-https://freesound.org/people/vykroft/sounds/441153/
-https://freesound.org/people/vykroft/sounds/431317/
-https://freesound.org/people/vykroft/sounds/428576/
-https://freesound.org/people/vykroft/sounds/428575/
+1. https://freesound.org/people/vykroft/sounds/441153/
+2. https://freesound.org/people/vykroft/sounds/431317/
+3. https://freesound.org/people/vykroft/sounds/428576/
+4. https://freesound.org/people/vykroft/sounds/428575/
 
 ## Fonts
 
-https://www.behance.net/gallery/28586665/Break-Free-Font
+1. https://www.behance.net/gallery/28586665/Break-Free-Font
 Free for Commercial and Personal Use
 
-https://www.behance.net/gallery/23792563/ONE-DAY-Free-Font
+2. https://www.behance.net/gallery/23792563/ONE-DAY-Free-Font
 Free for commercial & personal use
 
 ## Unity Packages
-https://github.com/mjholtzem/Unity-2D-Destruction/blob/master/LICENSE
+1. https://github.com/mjholtzem/Unity-2D-Destruction/blob/master/LICENSE
 
-LeanTween
+2. LeanTween
 The MIT License (MIT)
 
 Copyright (c) 2017 Russell Savage - Dented Pixel
