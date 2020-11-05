@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 Buchwald Interactive built the Pirate Jump - Mysterious Islands app as a Free app. This SERVICE is provided by Buchwald Interactive at no cost and is intended for use as is.
 
